@@ -1,6 +1,6 @@
-@use "../../node_modules/bulma/sass/utilities/initial-variables" as iv;
-@use "../../node_modules/bulma/sass/utilities/derived-variables" as dv;
-@use "../../node_modules/bulma/sass/utilities/mixins";
+@use "bulma/sass/utilities/initial-variables" as iv;
+@use "bulma/sass/utilities/derived-variables" as dv;
+@use "bulma/sass/utilities/mixins";
 
 $switch-background: iv.$grey-light !default;
 $switch-border: .1rem solid transparent !default;
